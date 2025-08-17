@@ -1,0 +1,16 @@
+# 🎲 Dice Roll Simulator
+
+A simple dice rolling simulator built with **HTML, CSS, and JavaScript**.
+
+# 🚀 How it works
+- Click thr **Roll Dice** button
+- A random dice face (1-6) is shown
+- Shows history of previous rolls
+
+## 📂 Files
+- `index.html`
+- `style.css`
+- `index.js`
+
+## 🌐 Live Demo
+Check it here: (link)
